@@ -1,0 +1,2 @@
+primeiramente iremos ligar apenas um interruptor e verificar a lâmpada correspondente, já teremos a primeira correspondência entre interruptor e lâmpada. Desligaremos o interruptor que foi acionado e acionaremos o próximo, tendo assim a segunda combinação correspondente
+e a terceira, que foram a lâmpada e interruptor que não foram acionados.
